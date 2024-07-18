@@ -19,3 +19,5 @@ yarn-error.log
 /.vscode
 config/install/lock/install.lock
 composer.lock
+docker
+docker-composer.yml
