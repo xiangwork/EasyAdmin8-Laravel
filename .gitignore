@@ -20,4 +20,4 @@ yarn-error.log
 config/install/lock/install.lock
 composer.lock
 docker
-docker-composer.yml
+docker-compose.yml
